@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
   
+.clearfix {
+    clear: both;
+}
+  
 header {
     background: #2c253a;
     height: 100px;
